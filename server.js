@@ -6,14 +6,14 @@
 /// Config Area ///
 
 var enableWhitelist = true; // Enable the Whitelist/Allowlist
-var guildId = "984461339751776257"; // Guild ID for a Discord Server, see https://faxes.zone/i/zjKnd.png
-var botToken = "OTg0NDk4MjE1NDQzMzk0NTYw.GlDYzU.1xy78bCXMpHfWTOh30Q61ibGRwBhgZNnoKY7Ok"; // This must be a Discord bot token, create a bot @ https://discord.com/developers/applications
+var guildId = "ID"; // Guild ID for a Discord Server
+var botToken = "Token"; // This must be a Discord bot token, create a bot @ https://discord.com/developers/applications
 
 var whitelistRoles = [ // Roles by ID that are whitelisted.
-    "984461339751776259"
+    "ID"
 ];
 var blacklistRoles = [ // Roles by Id that are blacklisted.
-    "998153163968364626"
+    "ID"
 ];
 
 var notWhitelistedMessage = "You're Not Whitelisted. This sever is whitelisted and requires access to join.Join here https://discord.gg/EMrXTeJtt3 ";
